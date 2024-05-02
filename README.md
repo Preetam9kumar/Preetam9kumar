@@ -1,9 +1,9 @@
 
 <h1 style="text-align:center;">Hi 👋 ! This is Preetam Kumar</h1>
 <h3>👀 A Passionate Full Stack Web Developer </h3>
-<h2>About me</h2>
   <ul>
-    <li>Undergraduate in BS- Information technology and 3.03 GPA !</li>
+<h2>About me</h2>
+<li>🎓 Undergraduate in BS- Information technology and 3.03 GPA !</li>
 <li>👨‍💻 internee Developer @ Institute of Information Technology - IIT</li>
 <li>🤠 Coded 200+  hours</li>
 <li>👨‍💻 Certified in Web Engineering @ IT Industry Readiness Bootcamp Program by Executive Development Center Sukkar IBA University @ Hyderabad Pakistan</li>
