@@ -1,5 +1,5 @@
-<div style="display:flex">
-<h1 style="margin:auto">Hi 👋 ! This is Preetam Kumar</h1>
+
+<h1 style="text-align:center;">Hi 👋 ! This is Preetam Kumar</h1>
 <h3>👀 A Passionate Full Stack Web Developer </h3>
 <h2>About me</h2>
   <ul>
