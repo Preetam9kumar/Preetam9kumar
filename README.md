@@ -2,8 +2,11 @@
 <h1 style="text-align:center;">Hi 👋 ! This is Preetam Kumar</h1>
 <p><em>A Passionate Junior Full Stack Web Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   <br>
+
+  
 [![Linkedin: anmol](https://img.shields.io/badge/-Preetam_Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/preetam-kumar-it/)](https://www.linkedin.com/in/preetam-kumar-it/)
 [![Git Followers](https://img.shields.io/github/followers/Preetam9kumar?label=Follow&style=social)](https://github.com/Preetam9kumar)
+
   
 ## I'm a Full Stack Web Developer, and Designer!! 🧑‍💻💡✒️🐧
 <li>🎓 Undergraduate in BS- Information technology and 3.03 GPA !</li>
