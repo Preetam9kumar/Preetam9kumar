@@ -19,17 +19,15 @@
 
 
 ### Languages and Tools:
-
 <img align="left" alt="Visual Studio Code" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="PHP" width="100px"  src="https://www.cdnlogo.com/logos/p/79/php.svg"  style="padding-right:10px;">
-<img align="left" alt="JQuery" width="100px"  src="https://www.cdnlogo.com/logos/j/71/jquery.svg"  style="padding-right:10px;">
+<img align="left" alt="JQuery" width="100px"  src="https://www.cdnlogo.com/logos/j/71/jquery.svg"  style="padding-right:10px; padding-top:20px; padding-bottom: 10px;">
 <img align="left" alt="Laravel" width="100px"  src="https://www.cdnlogo.com/logos/l/23/laravel.svg"  style="padding-right:10px;">
 <img align="left" alt="bootstrap" width="100px"  src="https://www.cdnlogo.com/logos/b/74/bootstrap-5.svg"  style="padding-right:10px;">
-
 
 <br />
 <!---
