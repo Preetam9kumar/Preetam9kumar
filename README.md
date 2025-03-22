@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/efcf6f72-c537-4657-8d44-52f5f113b149)
 <h1 style="text-align:center;">Hi 👋 ! This is Preetam Kumar</h1>
 <p><em>A Passionate Junior Full Stack Web Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   <br>
