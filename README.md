@@ -29,7 +29,6 @@
 <img align="left" alt="JQuery" width="100px"  src="https://static.cdnlogo.com/logos/t/58/tailwind-css.svg" style="padding-right:10px; padding-top:20px; padding-bottom: 10px;">
 <img align="left" alt="Laravel" width="100px"  src="https://www.cdnlogo.com/logos/l/23/laravel.svg"  style="padding-right:10px;">
 <img align="left" alt="bootstrap" width="100px"  src="https://www.cdnlogo.com/logos/b/74/bootstrap-5.svg"  style="padding-right:10px;">
-<img align="left" alt="tailwind" width="100px"  src="https://static.cdnlogo.com/logos/t/58/tailwind-css.svg"  style="padding-right:10px;">
 <br />
 <!---
 Preetam9kumar/Preetam9kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
