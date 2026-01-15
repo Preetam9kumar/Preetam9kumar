@@ -8,15 +8,15 @@
 
   
 ## I'm a Software Engineer !! 🧑‍💻💡✒️🐧
-<li>🎓 Undergraduate of BS(Information technology) with 3+ GPA !</li>
-<li>👨‍💻 Having working experience of 3+ years in MERN Stack, PHP  and good at Problem Solving and AI enabler. </li>
+<li>🎓 Graduate of BS(Information technology) with 3+ GPA !</li>
+<li>👨‍💻 Having working experience of 3+ years in MERN Stack, PHP, Python  and good at Problem Solving and AI enabler. </li>
 <li>📔 Having Programming fundamental understanding in C++, Java, Python, PHP, JavaScript, and R </li>
 <li>🤠 Coded 500+  hours</li>
 <li>👨‍💻 Certified in Web Engineering @ IT Industry Readiness Bootcamp Program by Executive Development Center Sukkar IBA University @ Hyderabad Pakistan</li>
 <li>👨‍💻 Certified in Web Applications for Everybody Specialization Certificate @ Coursera by Michigan University </li>
 <li>👨‍💻 Pursuing Meta Front-End Developer Specialization Certificate @ Coursera by Meta </li>
 <li>📫 How to reach me preetamrathore9@gmail.com</li>
-<li>⭐ 15+ Repositories on GitHub</li>
+<li>⭐ 25+ Repositories on GitHub</li>
 <li>⚡ Fun-fact! I love reading books, Logic Building, learn by doing and I'm a quick learner</li>
 
 
@@ -48,9 +48,6 @@
     </td>
     <td>
       <img align="left" alt="PHP" width="100px"  src="https://www.cdnlogo.com/logos/p/79/php.svg"  style="padding-right:10px;">
-    </td>
-    <td>
-      <img align="left" alt="Laravel" width="100px"  src="https://www.cdnlogo.com/logos/l/23/laravel.svg"  style="padding:10px;">
     </td>
   </tr>
   <tr>
